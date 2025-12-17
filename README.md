@@ -1,13 +1,7 @@
-# Sample Hardhat Project
+Contrato inteligente simple en Solidity que permite recibir y enviar Ether en la red de prueba Sepolia. Configurado para usar Hardhat con TypeScript.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+Despliegue de mi contrato inteligente:
 
-Try running some of the following tasks:
+contrato desplegado samuel: 0x1557ff031Dd3c7f69E4A65858a75A4c7729d322F
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
-```
+addess :https://sepolia.etherscan.io/address/0x1557ff031Dd3c7f69E4A65858a75A4c7729d322F#code
